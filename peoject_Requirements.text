@@ -1,0 +1,79 @@
+Pharmacy Database Management System
+
+Requirements For Pharmacy Management System As Bellow
+To Manage a Pharmacy via Database , There are some important aspects to allocate in :
+
+Users:
+Admin Users : THis is authorized User , Manage and follow the flow of pharmacy 
+Sales Users : They are unathorized users their work field in database is limited, they can just to sale drugs. each 
+counter of pharmacist has thier own user account.
+ 
+*Sales user just enter the bill / perscription and can edit it befor and after saving .
+
+
+In pharmacy database we need 
+The pharmacy database has ti manage the follwing Steps:
+
+Products registring 
+ 1: Drugd registring , this section should have the following options:
+a:Product id, each drug has its own id each product should be known by its id 
+b:Drug / product name
+c:phurchse rate
+d:profit percentages
+e:sales rate
+f:product type (Tablet , syroup , capsule , cream......)
+g:packing style ( bottle , box , sachets.......)
+h: Manufacturing and exapiering dates
+i: Drugs genrics name and formula
+j: Drugs brand or company name 
+
+Transactions
+Sales:
+1: Sales form: is the important form that counters or pharmacist sales drugs in this form it consists:
+a: patient id , patient name , patient father name , patient gender , patient docter 
+b: sales date ( auto/ current date )
+c: invoice number (auto Continues )
+
+2:Refuned Form
+
+
+Product pharchase :
+
+3: Product reciving / pharchase form , to enter daily purchsed drugs 
+a: invoice numbere
+b: Company 
+c: Supplier
+d:Docter 
+e:Date (auto )
+f:....
+
+
+
+
+Reports:
+
+Reports is the important element of the database as well , consists the following reports:
+Sales Report:
+
+
+1: sale and item / profit report
+a:By date from  :  to
+b: By user 
+c: By bill number 
+
+2: Drugs ledgers \3:Drugs refund reports
+
+
+Phurchase and Stock Reports :
+
+4: By : Drug , company , Supplier , date , invoice 
+5: Total Stock report 
+6: Drug registration report 
+7: Drugs expiry repoet 
+
+
+
+
+
+
+
